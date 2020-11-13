@@ -18,6 +18,8 @@
 @import "bootstrap";
 @import "layouts";
 
+@import "forms";
+
 main {
   height: calc(100vh - 50px);
   min-height: calc(100vh - 50px);
@@ -31,3 +33,4 @@ footer {
 .bg-home {
   background-color: #1e90ff;
 }
+
